@@ -1,0 +1,8 @@
+when we click generate button:
+A) create a 4 digit random number.
+    1) generate a random number.
+    2) check is it 4 digit or not!.
+    3) pass the value to input field.
+
+B) show it to the generateInput filed.
+
